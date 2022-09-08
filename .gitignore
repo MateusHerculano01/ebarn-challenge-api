@@ -22,7 +22,6 @@ pids
 # Optional eslint cache
 .eslintcache
 
-.env
 yarn.lock
 
 # Yarn Integrity file
